@@ -1,0 +1,48 @@
+El proceso de instalación tradicional es el siguiente:
+
+1.- Necesita cargar la versión 1.7.10 vanilla, cerrar el launcher y descomprimir el archivo Souldark - ModPack.rar en una carpeta
+2.- Una vez listo lo anterior, ejecuta el forge-1.7.10-10.13.4.1614-1.7.10-installer.jar (posteriormente debe aparecer seleccionado "Install cliente" y le da aceptar)
+3.- Terminado lo anterior entre a la carpeta de su minecraft
+	- Presione la tecla de Windonws + R y escriba %appdata%, dele a aceptar, y entre la carpeta .minecraft
+	- Otra opcion en el buscador poner %appdata% , posteriormente le debe aparecer una carpeta llamada "Roaming", le da click y va a la carpeta .minecraft
+4.- Arrastre la carpeta "mods" que descomprimio en la carpeta .minecraft (si una carpeta mods anterior, renombrela o eliminela)
+5.- Si desea puede instalar los siguientes mods de la carpeta "mods (opcional)", lea los detalles sobre los mods mas abajo.
+6.- Abra nuevamente el launcher de minecraft y seleccione la version de forge 1.7.10 o el perfil de forge generado
+7.- Espere a que se cargen los mods y listo.
+
+========================================================
+========================================================
+
+		Mods Adicionales
+
+========================================================
+========================================================
+
+
+Los siguientes mods proporcionan información util al jugador si los desea implementar, no son obligatorios para jugar en el servidor.
+
+Muy recomendado para las pc de bajos recursos o tener una ligera mejora.(Use los que necesite)
+
+- OptiFine_1.7.10_HD_U_E7 (Se conoce que puede generar algunos problemas visuales con algunos mods como el Thaumcraft con algunos efectos del Warp causado que su pantalla se ponga completamente negra, que puede pasar en un momento innoportuno)
+- BetterFps-1.0.1 (Se conoce que puede generar algunos problemas por una mala configuración por parte del cliente)
+- fastcraft-1.25 (Se desconoce problemas relacionados con el)
+
+Estos son minimapas (solamente use uno)
+
+- journeymap-1.7.10-5.1.4p2-unlimited 
+- Xaeros_Minimap_1.17.4_Forge_1.7.10 (alternativa al journeymap)
+
+Muestra información sobre los objetos que se estan observando (Solamente use uno)
+
+- Wawla-1.0.5.120
+- Waila-1.5.10_1.7.10 (alternativa a Wawla)
+
+Permite ver las recetas de los mods (Use los dos)
+
+- CodeChickenCore-1.7.10-1.0.7.47-universal
+- NotEnoughItems-1.7.10-1.0.5.120-universal
+
+Permite ver las recetas de otros mods
+
+- thaumcraftneiplugin-1.7.10-1.7a (ADDONS Para las recetas del Thaumcraft)
+- neiaddons-1.12.14.40-mc1.7.10 (para algunas recetas del Applied Energistics y Botania)
